@@ -1,0 +1,17 @@
+package methodDemo;
+
+public class MethodDemo {
+	
+
+	static void mydemomethos() {  //parentheses
+		
+		System.out.println("test");
+		
+	}
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

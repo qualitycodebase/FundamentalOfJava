@@ -1,0 +1,17 @@
+package gettingStarted;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		
+		while (true) {
+			int i = 1;
+			System.out.println(i);
+
+		}
+		
+
+	}
+	
+
+}

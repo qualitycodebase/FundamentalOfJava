@@ -1,0 +1,11 @@
+package variables_example;
+
+public class VariableDemo {
+
+	public static void main(String[] args) {
+		// Variable : are just like containers used for storing values
+		
+
+	}
+
+}

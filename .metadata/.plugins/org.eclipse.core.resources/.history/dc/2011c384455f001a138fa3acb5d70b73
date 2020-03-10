@@ -1,0 +1,10 @@
+package variables_example;
+
+public class VariableDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

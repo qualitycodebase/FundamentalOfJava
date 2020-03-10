@@ -1,0 +1,39 @@
+package methodDemo;
+
+public class MethodDemo {
+	
+// does not take anything
+	public static void mydemomethod() {  //parentheses
+		
+		System.out.println("test");
+		
+	}
+	
+	// method to take parameter vs argument 
+	
+	public static void mymethod(String myname) {
+		
+		System.out.println(myname);
+		
+	}
+	
+	
+	public static int addTwoNumbers(int a, int b) {
+		
+		int c = a + b;
+		//System.out.println(c);
+		
+		return c;
+		
+	}
+	
+	public static void main(String[] args) {
+		mydemomethod();
+		mymethod("BK");  // Argument 
+		addTwoNumbers(2,3);
+		
+		System.out.println(addTwoNumbers(2,3));
+
+	}
+
+}

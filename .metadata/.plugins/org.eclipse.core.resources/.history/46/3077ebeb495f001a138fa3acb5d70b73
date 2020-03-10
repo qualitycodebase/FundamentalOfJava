@@ -1,0 +1,47 @@
+package variables_example;
+
+// Variable types / data types
+// Variable : are just like containers used for storing values
+
+/* Two types of data type*/
+// This all are primitive data types
+/*
+ * String -> storing a text
+ * int    -> Storing an integers 
+ * float --> Storing a floating point numbers with decimals
+ * chart  --> Storing a single chars
+ * boolean --> true/false
+ 
+ * byte  --> store small size number ( 1 byte)
+ * short --> Store number 
+ * long  --> Store bing number 
+ */
+
+public class VariableDemo {
+
+	public static void main(String[] args) {
+		
+		String dayvariable = "Monday";  //String
+		
+		int salary = 12000;  //int
+		
+		float rent_cost = 1200.2432f;
+		
+		char class_name = 'f';
+		
+		boolean dex = true;
+		
+		byte num = 12;
+		
+		short num_short = 123;
+		
+		long num_long = 23142423;
+		
+		
+		
+		// data type variable = value ; 
+		
+
+	}
+
+}

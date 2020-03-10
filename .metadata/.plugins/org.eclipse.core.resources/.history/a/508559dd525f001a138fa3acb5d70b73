@@ -1,0 +1,21 @@
+package conditionalStatement;
+
+public class SwitchSelection {
+
+	public static void main(String[] args) {
+		
+		int n = 3;
+		
+		switch(n) {
+		
+		case 1:
+			System.out.println("This is 1");
+		case 2:
+			System.out.println("This is 2");
+		case 3:
+			System.out.println("This is 3");
+		}
+
+	}
+
+}

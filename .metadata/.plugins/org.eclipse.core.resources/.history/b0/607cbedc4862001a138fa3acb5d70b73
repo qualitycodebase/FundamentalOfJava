@@ -1,0 +1,28 @@
+package conditionalStatement;
+
+/*
+ * 
+ *Break --> Breaking point if the statement is gets true.
+ *continue -- > use this one to skip a case to be executed.
+ */
+public class SwitchSelection {
+
+	public static void main(String[] args) {
+		
+		String browser_type = "firefox";
+		
+		switch(browser_type) {
+		
+		case "chrome":
+			System.out.println("This is chrome");
+		case "firefox":
+			System.out.println("This is firefox");
+		case "safari":
+			System.out.println("This is safari");
+		default:	
+			System.out.println("This is IE");
+		}
+
+	}
+
+}

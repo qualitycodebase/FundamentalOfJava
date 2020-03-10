@@ -1,0 +1,17 @@
+package conditionalStatement;
+
+public class OddEven {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int k = 12; //
+		
+		if(k%2==0) {
+			System.out.print("This number is Even");
+			
+		}
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package methodDemo;
+
+public class MethodDemo {
+	
+// does not take anything
+	public static void mydemomethod() {  //parentheses
+		
+		System.out.println("test");
+		
+	}
+	
+	// method to take parameter vs argument 
+	
+	public static void mymethod() {
+		
+	}
+	
+	public static void main(String[] args) {
+		mydemomethod();
+
+	}
+
+}

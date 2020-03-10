@@ -1,0 +1,24 @@
+package stringDemo;
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//String[] cars; //Square brackets
+		
+		
+		String[] NewCars = {"Volvo", "BMW", "LXS", "Ford", "Honda"}; // Array of String 
+		
+		System.out.println(NewCars[5]);
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

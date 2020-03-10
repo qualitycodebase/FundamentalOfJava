@@ -1,0 +1,21 @@
+package conditionalStatement;
+
+public class SwitchSelection {
+
+	public static void main(String[] args) {
+		
+		String browser_type = "chrome";
+		
+		switch(browser_type) {
+		
+		case "chrome":
+			System.out.println("This is chrome");
+		case "firefox":
+			System.out.println("This is firefox");
+		case "safari":
+			System.out.println("This is safari");
+		}
+
+	}
+
+}

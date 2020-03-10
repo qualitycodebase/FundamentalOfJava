@@ -1,0 +1,31 @@
+package mathOperation;
+
+public class ArthimeticOperation {
+
+	public static void main(String[] args) {
+		// + , - , * , / , %
+		
+		int SUM;
+		
+		int x = 10;
+		int y = 203423;
+		
+		SUM = x + y ;
+		
+		//System.out.println(SUM);
+		
+		
+	int	SUB;
+	
+	int xs = x;
+	int ys = y;
+	
+	SUB = xs/ys;
+	
+	System.out.println(SUB);
+	
+	
+
+	}
+
+}

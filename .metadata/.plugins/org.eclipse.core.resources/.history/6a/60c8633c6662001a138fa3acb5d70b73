@@ -1,0 +1,21 @@
+package demo_9;
+
+
+/*
+ * 
+ *while, do while , for and for each
+ */
+public class WhileLoop {
+
+	public static void main(String[] args) {
+		
+		int num = 10;
+		
+		while(num < 20) {
+			System.out.println(num);
+		}
+
+
+	}
+
+}

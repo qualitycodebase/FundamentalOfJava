@@ -1,0 +1,28 @@
+package stringDemo;
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		String demo  = "This is the program, I wrote";
+		
+		//int lenx = demo.length();
+		
+		//System.out.println("The length of the string is : " + lenx);
+		//System.out.println("The length of the string is : " + demo.length());
+		
+		
+		
+		String jemal = demo.toUpperCase();
+		
+		System.out.println("Upper case example : " + jemal);
+		System.out.println("Upper case example : " + demo.toLowerCase());
+		
+
+		
+
+	}
+
+}

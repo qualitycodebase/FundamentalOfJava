@@ -1,0 +1,10 @@
+package mathOperation;
+
+public class LogicalOperation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

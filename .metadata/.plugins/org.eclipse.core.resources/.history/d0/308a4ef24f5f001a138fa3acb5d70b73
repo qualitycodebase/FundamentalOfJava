@@ -1,0 +1,18 @@
+package conditionalStatement;
+
+public class Selection {
+
+	public static void main(String[] args) {
+		// If clause , Switch 
+		
+		String day = "Monday";
+		
+		if(day == "Monday") {
+			System.out.println("I have to go work !!");
+			System.out.println(" and visit my mam !!");
+		
+		}
+
+	}
+
+}

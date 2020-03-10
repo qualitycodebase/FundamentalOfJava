@@ -1,0 +1,19 @@
+package mathOperation;
+
+public class ArthimeticOperation {
+
+	public static void main(String[] args) {
+		// + , - , * , / , %
+		
+		int SUM;
+		
+		int x = 10;
+		int y = 20;
+		
+		SUM = x + y ;
+		
+		System.out.println(SUM);
+
+	}
+
+}

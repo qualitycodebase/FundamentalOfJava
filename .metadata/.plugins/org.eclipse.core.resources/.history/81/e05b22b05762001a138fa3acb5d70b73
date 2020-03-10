@@ -1,0 +1,21 @@
+package gettingStarted;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		
+		int i = 10;
+		while (i <=20) {
+			
+			//i++;
+			i = i + 1;
+			
+			System.out.println(i);
+		}
+		
+		//System.out.println(i);
+
+	}
+	
+
+}
